@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-233.14475.28">
+    <data-source name="default@localhost" uuid="00104734-8089-40f7-b495-46089bed2564">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <user-name>oreo</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
