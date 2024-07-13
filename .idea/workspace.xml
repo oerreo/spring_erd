@@ -6,7 +6,31 @@
   <component name="ChangeListManager">
     <list default="true" id="0fc88b1b-2ec2-464f-b8d2-2ef1e3aa4523" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../SpringSession.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Delivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Delivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/DeliveryStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/DeliveryStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/ItemRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/ItemRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/out/production/classes/likelionjpa/jpashop/domain/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/item/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/item/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/DeliveryStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/DeliveryStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/item/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/ItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/item/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/jpashop/src/main/java/likelionjpa/jpashop/domain/OrderItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +58,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,42 +80,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Gradle.Build jpashop.executor": "Run",
-    "JUnit.MemberRepositoryTest.executor": "Run",
-    "JUnit.OrderItemRepositoryTest.executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Spring Boot.JpashopApplication.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/rhxog/OneDrive/Desktop/Jpasession",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.Build jpashop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MemberRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.OrderItemRepositoryTest.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Spring Boot.JpashopApplication.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rhxog/OneDrive/Desktop/Jpasession&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -120,7 +144,7 @@
       <module name="jpashop.jpashop.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="likelionjpa.jpashop.domain.*" />
+          <option name="PATTERN" value="likelionjpa.jpashop.domain.item.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,6 +191,8 @@
       <workItem from="1719915077039" duration="9009000" />
       <workItem from="1720073722667" duration="9108000" />
       <workItem from="1720438820357" duration="5006000" />
+      <workItem from="1720444761628" duration="21000" />
+      <workItem from="1720883038995" duration="3803000" />
     </task>
     <servers />
   </component>

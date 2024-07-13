@@ -1,6 +1,9 @@
-package likelionjpa.jpashop.domain;
+package likelionjpa.jpashop.domain.item;
 
 import jakarta.persistence.*;
+import likelionjpa.jpashop.domain.Category;
+import likelionjpa.jpashop.domain.Order;
+import likelionjpa.jpashop.domain.OrderItem;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -39,7 +42,7 @@ public abstract class Item {
     @ManyToMany(mappedBy = "items")
     private List<Category> categories = new ArrayList<>();
 
-    @OneToOne
+    @OneToOne(fetch=FetchType.LAZY)
     @JoinColumn(name="order_id")
     private Order order;
 }
